@@ -2,10 +2,7 @@
 
 ### I'm a Full-Stack Developer
 
-- 🔭 I’m currently working on POS project for retail business
-- 🌱 I’m currently learning Javascript, VUEjs, and APIs
 - ⚙️ Mostly using: <code>.php</code>, <code>.js</code>, <code>.sql</code>
-- 📫 Reach me: nurularifin837@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Kdrama
 
