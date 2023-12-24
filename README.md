@@ -2,7 +2,7 @@
 
 ### I'm a Full-Stack Developer
 
-- ⚙️ Mostly using: <code>.php</code>, <code>.js</code>, <code>.sql</code>
+- ⚙️ Mostly using: <code>.html</code>, <code>.css</code>, <code>.js</code>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Kdrama
 
