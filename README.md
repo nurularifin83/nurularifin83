@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-### I'm a Frontend Web Developer
+### Web Application Developer 
 
-- ⚙️ Mostly using: <code>.html</code>, <code>.css</code>, <code>.scss</code>, <code>.js</code>
+- Some of my portfolio: [LMS](https://lms.anzlyrics.xyz/), [E-commerce](https://shopedia.anzlyrics.xyz/), [POS](https://pos.anzlyrics.xyz/)
+- ⚙️ Skills: <code>js</code>, <code>php</code>, <code>css</code>, <code>MySQL</code>, <code>Laravel</code>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Kdrama
 
