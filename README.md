@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Web Application Developer 
+### I'm a Web Application Developer 
 
 - 🌍 I'm based in Aceh, Indonesia
 - 👨‍💻 Some of my portfolio: [LMS](https://lms.anzlyrics.xyz/), [E-commerce](https://shopedia.anzlyrics.xyz/), [POS](https://pos.anzlyrics.xyz/)
