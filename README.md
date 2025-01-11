@@ -2,7 +2,7 @@
 
 ## I'm a Web Application Developer 
 
-- 🌍 I'm based in Aceh, Indonesia
+- 🌍 I'm based in Bandung, West Java, Indonesia
 - 👨‍💻 Some of my portfolio: [LMS](https://lms.anzlyrics.xyz/), [E-commerce](https://shopedia.anzlyrics.xyz/), [POS](https://pos.anzlyrics.xyz/)
 - ⚙️ Skills: <code>js</code>, <code>php</code>, <code>css</code>, <code>MySQL</code>, <code>Laravel</code>
 - ✉️ You can contact me at nurularifin837@gmail.com
