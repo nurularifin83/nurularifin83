@@ -3,7 +3,7 @@
 ## I'm a Software Quality Assurance 
 
 - 🌍 I'm based in Jakarta, Indonesia
-- ⚙️ Skills: <code>Selenium WebDriver</code>, <code>php</code>, <code>Java (basic for automation)</code>, <code>MySQL</code>, <code>SQL</code>, <code>Katalon Studio</code>, <code>Postman (Trello API)</code>, <code>Apache JMeter</code>, <code>Jenkins</code>, <code>GitHub</code>, <code>Manual Testing</code>, <code>Automation Testing</code>
+- ⚙️ Skills: <code>Selenium WebDriver</code>, <code>php</code>, <code>Java (basic for automation)</code>, <code>MySQL</code>, <code>SQL</code>, <code>Katalon Studio</code>, <code>Postman</code>, <code>Apache JMeter</code>, <code>Jenkins</code>, <code>GitHub</code>, <code>Manual Testing</code>, <code>Automation Testing</code>
 - ✉️ You can contact me at nurularifin837@gmail.com
 - 🤝 I'm open to collaborating on the Software Testing
 - 😄 Pronouns: He/Him
